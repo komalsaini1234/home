@@ -33,7 +33,7 @@ class _loginState extends State<login> {
               child: Image.asset(
                 "assets/ba.jpg",
                 fit: BoxFit.cover,
-                scale: 4,
+                scale: 4.5,
               ),
             ),
           ),
